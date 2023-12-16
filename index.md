@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Ho Ho Ho
 ---
 
 Learning GitHub Actions
